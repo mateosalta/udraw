@@ -1,0 +1,14 @@
+{
+    "description": "description of U-Draw",
+    "framework": "ubuntu-sdk-16.04",
+    "hooks": {
+        "udraw": {
+            "apparmor": "udraw.apparmor",
+            "desktop": "udraw.desktop"
+        }
+    },
+    "maintainer": "fcole90@gmail.com",
+    "name": "udraw.mateo-salta",
+    "title": "U-Draw",
+    "version": "0.6"
+}

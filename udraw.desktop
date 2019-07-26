@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=udraw
+Comment=Drawing application for Ubuntu Touch
+Exec=/usr/bin/qmlscene %U U-Draw.qml
+Icon=icon/icon.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Application-ID=udraw
+
